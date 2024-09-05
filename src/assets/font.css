@@ -1,0 +1,22 @@
+@font-face {
+    font-family: "genjyuuX";
+    src: url("/fonts/GenJyuuGothicX-Normal.ttf") format("truetype");
+  }
+
+@font-face {
+    font-family: "genjyuuX-medium";
+    src: url("/fonts/GenJyuuGothicX-Medium.ttf") format("truetype");
+  }
+
+
+@font-face {
+  font-family: "genjyuuX-bold";
+  src: url("fonts/GenJyuuGothicX-Bold.ttf") format("truetype");
+}
+
+
+@font-face {
+    font-family: "forte";
+    src: url("/fonts/forte.ttf") format("truetype");
+  }
+  
