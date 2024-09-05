@@ -53,7 +53,7 @@
           <p class="foodname addspace">麦茶</p>
           <p class="alergy">小麦</p>
 
-          <p class="foodname addspace">オレンジ</p>
+          <p class="foodname addspace">オレンジジュース</p>
           <p class="alergy">オレンジ</p>
 
           <p class="foodname addspace">こどもビール</p>
@@ -131,7 +131,7 @@
   padding-top: 30px;
   padding-bottom: 10px;
 
-  margin-top: -10%;
+  margin-top: -15%;
 
 }
 
@@ -144,7 +144,7 @@
   padding-top: 10px;
   padding-bottom: 10px;
 
-  margin-top: -10%;
+  margin-top: -15%;
 }
 
 .title {
