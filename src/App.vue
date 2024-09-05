@@ -20,7 +20,7 @@
         <div class="content">
           <p class="foodname">さいころステーキ串 ¥100</p>
           <p class="foodname">塩/たれ</p>
-          <p class="alergy">牛肉 大豆 たまご 乳成分 ゼラチン</p>
+          <p class="alergy">牛肉 大豆 たまご 乳成分 ゼラチン(たれ味のみ りんご ごま 小麦)</p>
 
           <p class="foodname addspace">ポテト ¥100</p>
 
