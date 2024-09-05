@@ -73,7 +73,7 @@
 .logo {
   position: absolute;
 
-  width: 40%;
+  width: 50%;
   margin-left: 5px;
 
   top: 3%;
@@ -107,7 +107,7 @@
 
 /* Menuitem用のスタイルシート */
 .box {
-    width: 100vw;
+    width: 95vw;
     height: fit-content;
 
     display: flex;
@@ -181,7 +181,7 @@
 }
 
 .foodname {
-  font-family: "genjyuuX-bold";
+  font-family: "genjyuuX-heavy";
   font-size: 3.2vw;
 
   

@@ -11,7 +11,7 @@
 
 @font-face {
   font-family: "genjyuuX-bold";
-  src: url("fonts/GenJyuuGothicX-Bold.ttf") format("truetype");
+  src: url("/fonts/GenJyuuGothicX-Bold.ttf") format("truetype");
 }
 
 
@@ -19,4 +19,9 @@
     font-family: "forte";
     src: url("/fonts/forte.ttf") format("truetype");
   }
+
+@font-face {
+  font-family: "genjyuuX-heavy";
+  src: url("/fonts/GenJyuuGothicX-Heavy.ttf") format("truetype");
+}
   
