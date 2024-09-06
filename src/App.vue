@@ -25,13 +25,13 @@
 
           <p class="foodname addspace">ポテト ¥100</p>
 
-          <p class="foodname addspace">餃子 ¥150</p>
+          <p class="foodname addspace">餃子 ¥150 (5個)</p>
           <p class="alergy">豚肉 鶏肉 ごま 大豆 小麦</p>
 
-          <p class="foodname addspace">焼きおにぎり ¥100</p>
+          <p class="foodname addspace">焼きおにぎり ¥100 (2個)</p>
           <p class="alergy">ごま 大豆</p>
 
-          <p class="foodname addspace">からあげ ¥100</p>
+          <p class="foodname addspace">からあげ ¥100 (2個)</p>
           <p class="alergy">鶏肉 小麦 大豆</p>
 
           <p class="foodname addspace">えだまめ ¥100</p>
